@@ -16,10 +16,6 @@ November 2018 – November 2019
 February 2016 – present
 * Engineered software for clients in agricultural and medical research using React, Redux, Ruby on Rails, JavaScript, SQL, and other technologies
 
-**WWOOFer**; World Wide Opportunities on Organic Farms; Norway, Germany, and Italy
-July 2015 – November 2015
-* Volunteered on organic farms
-
 **Full-Stack JEE Developer**; Red Hat, Inc.; Richmond, VA
 August 2013 – June 2015
 * Worked in teams and individually to develop enterprise software solutions for clients using JBoss and other JEE/Java technologies
