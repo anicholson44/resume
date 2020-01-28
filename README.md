@@ -13,7 +13,7 @@ November 2018 – November 2019
 * Engineer software using JavaScript, TypeScript, React, Redux, C#, and PostgreSQL
 
 **Full-Stack React/Ruby on Rails Developer**; SciMed Solutions, Inc.; Durham, NC
-February 2016 – present
+February 2016 – November 2018
 * Engineered software for clients in agricultural and medical research using React, Redux, Ruby on Rails, JavaScript, SQL, and other technologies
 
 **Full-Stack JEE Developer**; Red Hat, Inc.; Richmond, VA
