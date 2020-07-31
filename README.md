@@ -9,8 +9,8 @@ I'm a **passionate senior-level software engineer** who understands how to **man
 
 ## Work Experience  
 
-**Senior Full-Stack React/Rails Developer and Team Lead at Spatial Networks** 
-March 2020 -- present
+**Senior Full-Stack React/Ruby on Rails Developer and Team Lead at Spatial Networks**  
+March 2020 - present
 * **Lead development** and **take ownership over project success** for a **strategic low-code platform** feature using **Ruby on Rails, React, and Postgresql**
 * Provide **technical leadership** and **mentorship** in the company’s **product-focused** engineering team
 * Advocate for industry **best practices** around **DevSecOps** and **drive a cultural shift** to adopt new processes in line with those best practices, including **Kanban, automated testing, and CI/CD**
@@ -23,7 +23,7 @@ November 2018 – November 2019 in Salt Lake City, UT and remote
 * Engineered web applications with **TypeScript, React, Redux, C#, and PostgreSQL**
 
 
-**Full-Stack React/Rails Developer at SciMed Solutions, Inc.**  
+**Full-Stack React/Ruby on Rails Developer at SciMed Solutions, Inc.**  
 February 2016 – November 2018 in Durham, NC and remote
 * Engineered web applications for clients in agricultural and medical research 
 * Consistently **delivered high-quality software** for SciMed’s biggest client using **React, Redux, Ruby on Rails, and SQL**
@@ -50,7 +50,7 @@ September 2011 – December 2012 in Charlottesville, VA
 
 ## Technical Expertise  
 
-**Ruby on Rails, Javascript, TypeScript, React, Redux, HTML, CSS, Mocha/Chai/Jest, Unix Server Administration, SQL Databases, Git**
+**Ruby on Rails, Javascript, TypeScript, React, Redux, HTML, CSS, Mocha/Chai/Jest, Minitest/RSpec, Unix Server Administration, SQL Databases, Git**
 
 ---
 
