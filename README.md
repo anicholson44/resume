@@ -11,7 +11,7 @@ I'm a **passionate senior-level software engineer** who understands how to **man
 
 **Senior Full-Stack React/Rails Developer and Team Lead at Spatial Networks** 
 March 2020 -- present
-* **Lead development** and **take ownership over project success** for a **strategic low-code platform** feature
+* **Lead development** and **take ownership over project success** for a **strategic low-code platform** feature using **Ruby on Rails, React, and Postgresql**
 * Provide **technical leadership** and **mentorship** in the company’s **product-focused** engineering team
 * Advocate for industry **best practices** around **DevSecOps** and **drive a cultural shift** to adopt new processes in line with those best practices, including **Kanban, automated testing, and CI/CD**
 
