@@ -1,16 +1,18 @@
 # Andrew Nicholson
 (540) 728-0119  
-[andrew.nicholson4491@gmail.com](andrew.nicholson4491@gmail.com)  
+[nicholsonsoftware@gmail.com](nicholsonsoftware@gmail.com)  
 [https://github.com/anicholson44](https://github.com/anicholson44)  
 
-I'm a **passionate senior-level software engineer** who understands how to **manage the complexities** of **continuously delivering high-quality, mission-critical software** in fast-paced business environments.  
+## Personal Mission Statement
+
+To advocate for best practices that serve the customer, to use my expertise to solve complex and strategic problems, to own and drive product success, to mentor and help others achieve their goals, and ultimately to make lives better with the products my team creates.
 
 --- 
 
 ## Work Experience  
 
 **Senior Full-Stack React/Ruby on Rails Developer and Team Lead at Spatial Networks**  
-March 2020 - present
+March 2020 - present, remote
 * **Lead development** and **take ownership over project success** for a **strategic low-code platform** feature using **Ruby on Rails, React, and Postgresql**
 * Provide **technical leadership** and **mentorship** in the company’s **product-focused** engineering team
 * Advocate for industry **best practices** around **DevSecOps** and **drive a cultural shift** to adopt new processes in line with those best practices, including **Kanban, automated testing, and CI/CD**
@@ -26,12 +28,12 @@ November 2018 – November 2019 in Salt Lake City, UT and remote
 **Full-Stack React/Ruby on Rails Developer at SciMed Solutions, Inc.**  
 February 2016 – November 2018 in Durham, NC and remote
 * Engineered web applications for clients in agricultural and medical research 
-* Consistently **delivered high-quality software** for SciMed’s biggest client using **React, Redux, Ruby on Rails, and SQL**
+* Consistently **delivered high-quality software** for SciMed’s biggest clients using **React, Redux, Ruby on Rails, and SQL databases**
 
 
 **Full-Stack JEE Developer at Red Hat, Inc.**  
 August 2013 – June 2015 in Richmond, VA and remote
-* Worked for a high-priority client on first project out of college and **mentored junior devs**, and continued to be **placed on high-visibility projects**
+* Worked on a high-priority ecommerce project where I **mentored junior devs**, and continued to be **placed on high-visibility projects**
 * **Managed client relations** and expectations
 
 **Software Developer Intern at Noblis, Inc.**  
@@ -39,18 +41,11 @@ June 2012 – January 2013 in Danville, VA and remote
 * Worked as part of a development team to build a web application for the FAA to interface with a Cray XMT2 supercomputer
 * Was the only intern to be kept on the team
 
-
-**Manager at Newcomb Hall, University of Virginia**  
-September 2011 – December 2012 in Charlottesville, VA
-* Managed personnel and helped customers at the student information desk
-* Wrote a software program for my employer to automate employee scheduling
-
-
 ---
 
 ## Technical Expertise  
 
-**Ruby on Rails, Javascript, TypeScript, React, Redux, HTML, CSS, Mocha/Chai/Jest, Minitest/RSpec, Unix Server Administration, SQL Databases, Git**
+**Ruby on Rails, React, TypeScript, Postgres, Unit Testing, Unix Server Administration, CI/CD**
 
 ---
 
