@@ -11,14 +11,14 @@ To advocate for best practices that serve the customer, to use my expertise to s
 
 ## Work Experience  
 
-**Senior Full-Stack React/Ruby on Rails Developer and Team Lead at Spatial Networks**  
+**Senior Full-Stack React/Ruby on Rails Engineer and Team Lead at Spatial Networks**  
 March 2020 - present, remote
 * **Lead development** and **take ownership over project success** for a **strategic low-code platform** feature using **Ruby on Rails, React, and Postgresql**
 * Provide **technical leadership** and **mentorship** in the company’s **product-focused** engineering team
 * Advocate for industry **best practices** around **DevSecOps** and **drive a cultural shift** to adopt new processes in line with those best practices, including **Kanban, automated testing, and CI/CD**
 
 
-**Full-Stack React/C# Developer at Pluralsight, LLC**  
+**Full-Stack React/C# Engineer at Pluralsight, LLC**  
 November 2018 – November 2019 in Salt Lake City, UT and remote
 * Joined as part of **2019 acquisition of GitPrime, Inc.**
 * **Delivered high-visibility, strategic integration** between GitPrime and Pluralsight for Pluralsight Live conference three months after acquisition
