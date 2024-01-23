@@ -11,16 +11,30 @@ To advocate for best practices that serve the customer, to use my expertise to s
 
 ## Work Experience  
 
+**Staff Software Engineer at Path Mental Health**  
+December 2021 - present, remote
+* Joined as engineer #3
+* Built **foundational services and products**, including a resilient email system, partnership integrations, and web "portal" products for both our patients and therapists
+* Drove **cross-functional initiatives** including a process to develop an **SDLC** and an **org-wide reference architecture** based on Domain-Driven Design, Event-Driven Architecture, and Command/Query Responsibility Segregation
+* Implemented a Transactional Outbox pattern to ensure reliable in-order event delivery without leaking sensitive data outside of primary data stores
+
+
+**Staff Software Engineer at Sift**  
+January 2021 - December 2021, remote
+* Joined through the **2021 acquisition of ChargeBack**
+* Designed and led development of a new data architecture to enable flexible product support for customers, **unblocking business scalability**
+* Productionized a prototype of a low-code workflow solution to support custom business rules for customers
+
 **Senior Full-Stack React/Ruby on Rails Engineer and Team Lead at Spatial Networks**  
-March 2020 - present, remote
-* **Lead development** and **take ownership over project success** for a **strategic low-code platform** feature using **Ruby on Rails, React, and Postgresql**
-* Provide **technical leadership** and **mentorship** in the company’s **product-focused** engineering team
-* Advocate for industry **best practices** around **DevSecOps** and **drive a cultural shift** to adopt new processes in line with those best practices, including **Kanban, automated testing, and CI/CD**
+March 2020 - December 2020, remote
+* **Led development** and **took ownership over project success** for a **strategic low-code platform** feature using **Ruby on Rails, React, and Postgresql**
+* Provided **technical leadership** and **mentorship** in the company’s **product-focused** engineering team
+* Advocated for industry **best practices** around **DevSecOps** and **drove a cultural shift** to adopt new processes in line with those best practices, including **Kanban, automated testing, and CI/CD**
 
 
 **Full-Stack React/C# Engineer at Pluralsight, LLC**  
 November 2018 – November 2019 in Salt Lake City, UT and remote
-* Joined as part of **2019 acquisition of GitPrime, Inc.**
+* Joined throught the **2019 acquisition of GitPrime, Inc.**
 * **Delivered high-visibility, strategic integration** between GitPrime and Pluralsight for Pluralsight Live conference three months after acquisition
 * Engineered web applications with **TypeScript, React, Redux, C#, and PostgreSQL**
 
