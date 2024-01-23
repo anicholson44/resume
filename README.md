@@ -59,7 +59,7 @@ June 2012 – January 2013 in Danville, VA and remote
 
 ## Technical Expertise  
 
-**Ruby on Rails, React, TypeScript, Postgres, Unit Testing, Unix Server Administration, CI/CD**
+**Ruby on Rails, Node, React, AMQP, Kafka, TypeScript, Postgres, AWS, CI/CD**
 
 ---
 
