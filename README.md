@@ -12,7 +12,7 @@ To advocate for best practices that serve the customer, to use my expertise to s
 ## Work Experience  
 
 **Founding Engineer / Staff Software Engineer at Rula Mental Health**  
-December 2021 - March 2024
+December 2021 - March 2024, remote
 * Joined as engineer #3
 * Built **foundational services and products**, including a resilient email system, partnership integrations, and web portal products for both patients and therapists
 * Drove **cross-functional initiatives** including a process to develop an **SDLC** and an **org-wide reference architecture** based on Domain-Driven Design, Event-Driven Architecture, and Command/Query Responsibility Segregation
