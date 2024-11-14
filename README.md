@@ -12,11 +12,11 @@ To advocate for best practices that serve the customer, to use my expertise to s
 ## Work Experience  
 
 **Staff Software Engineer at Path Mental Health**  
-December 2021 - present, remote
+December 2021 - March 2024
 * Joined as engineer #3
 * Built **foundational services and products**, including a resilient email system, partnership integrations, and web "portal" products for both our patients and therapists
 * Drove **cross-functional initiatives** including a process to develop an **SDLC** and an **org-wide reference architecture** based on Domain-Driven Design, Event-Driven Architecture, and Command/Query Responsibility Segregation
-* Implemented a Transactional Outbox pattern to ensure reliable in-order event delivery without leaking sensitive data outside of primary data stores
+* Implemented a Transactional Outbox and Durable Execution Environment to provide patterns to solve distributed systems problems  
 
 
 **Staff Software Engineer at Sift**  
