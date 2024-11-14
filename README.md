@@ -14,16 +14,17 @@ To advocate for best practices that serve the customer, to use my expertise to s
 **Founding Engineer / Staff Software Engineer at Rula Mental Health**  
 December 2021 - March 2024
 * Joined as engineer #3
-* Built **foundational services and products**, including a resilient email system, partnership integrations, and web "portal" products for both our patients and therapists
+* Built **foundational services and products**, including a resilient email system, partnership integrations, and web portal products for both patients and therapists
 * Drove **cross-functional initiatives** including a process to develop an **SDLC** and an **org-wide reference architecture** based on Domain-Driven Design, Event-Driven Architecture, and Command/Query Responsibility Segregation
-* Implemented a Transactional Outbox and Durable Workflow Execution Environment to provide the team with solutions to common distributed systems problems  
+* Implemented a Transactional Outbox and Durable Workflow Execution Environment to provide the team with **solutions to widespread distributed systems problems**
 
 
 **Staff Software Engineer at Sift**  
 January 2021 - December 2021, remote
 * Joined through the **2021 acquisition of ChargeBack**
-* Designed and led development of a new data architecture to enable flexible product support for customers, **unblocking business scalability**
-* Productionized a prototype of a low-code workflow solution to support custom business rules for customers
+* Designed and **led development of a new data architecture** to enable flexible product support for customers, **unblocking business scalability**
+* **Worked closely with product managers** to shape our low-code business rules platform
+
 
 **Senior Full-Stack React/Ruby on Rails Engineer and Team Lead at Spatial Networks**  
 March 2020 - December 2020, remote
@@ -35,7 +36,7 @@ March 2020 - December 2020, remote
 **Full-Stack React/C# Engineer at Pluralsight, LLC**  
 November 2018 – November 2019 in Salt Lake City, UT and remote
 * Joined throught the **2019 acquisition of GitPrime, Inc.**
-* **Delivered high-visibility, strategic integration** between GitPrime and Pluralsight for Pluralsight Live conference three months after acquisition
+* **Delivered high-visibility, strategic integration** between GitPrime and Pluralsight
 * Engineered web applications with **TypeScript, React, Redux, C#, and PostgreSQL**
 
 
@@ -47,19 +48,19 @@ February 2016 – November 2018 in Durham, NC and remote
 
 **Full-Stack JEE Developer at Red Hat, Inc.**  
 August 2013 – June 2015 in Richmond, VA and remote
-* Worked on a high-priority ecommerce project where I **mentored junior devs**, and continued to be **placed on high-visibility projects**
-* **Managed client relations** and expectations
+* Contributed to **high priority projects**
+* **Mentored** junior developers
+
 
 **Software Developer Intern at Noblis, Inc.**  
 June 2012 – January 2013 in Danville, VA and remote
-* Worked as part of a development team to build a web application for the FAA to interface with a Cray XMT2 supercomputer
-* Was the only intern to be kept on the team
+* **Led development** of a Grails web application that displayed results from computations run on a Cray XMT2 supercomputer
 
 ---
 
 ## Technical Expertise  
 
-**Ruby on Rails, Node, React, AMQP, Kafka, TypeScript, Postgres, AWS, CI/CD**
+**TypeScript, Ruby on Rails, Node, React, AMQP, Kafka, Postgres, AWS, CI/CD**
 
 ---
 
