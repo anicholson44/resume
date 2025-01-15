@@ -33,7 +33,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           # Stage and commit the PDF (assuming your script outputs resume.pdf)
-          git add resume.pdf
+          git add Andrew\ Nicholson\'s\ Resume.pdf
 
           # Only commit if there are changes
           if git diff --cached --quiet; then
