@@ -1,0 +1,45 @@
+name: Generate PDF with Pandoc
+
+on:
+  push:
+    branches: [ "main" ]
+
+permissions:
+  contents: write  # Needed so we can push changes back to the repo
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Install Pandoc and TeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+          sudo apt-get install -y texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
+
+      - name: Make script executable
+        run: chmod +x generate-pdf.sh
+
+      - name: Generate PDF
+        run: ./generate-pdf.sh
+
+      - name: Commit and push PDF
+        run: |
+          # Set up Git config (the GitHub Actions bot account)
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage and commit the PDF (assuming your script outputs resume.pdf)
+          git add resume.pdf
+
+          # Only commit if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: auto-generate PDF on push to main"
+            git push
+          fi
+
