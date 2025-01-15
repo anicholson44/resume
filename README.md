@@ -3,8 +3,6 @@
 [nicholsonsoftware@gmail.com](nicholsonsoftware@gmail.com)  
 [https://github.com/anicholson44](https://github.com/anicholson44)  
 
-TEST
-
 ## Personal Mission Statement
 
 To advocate for best practices that serve the customer, to use my expertise to solve complex and strategic problems, to own and drive product success, to mentor and help others achieve their goals, and ultimately to make lives better with the products my team creates.
