@@ -7,7 +7,6 @@
 
 To advocate for best practices that serve the customer, to use my expertise to solve complex and strategic problems, to own and drive product success, to mentor and help others achieve their goals, and ultimately to make lives better with the products my team creates.
 
---- 
 
 ## Work Experience  
 
@@ -56,13 +55,11 @@ August 2013 – June 2015 in Richmond, VA and remote
 June 2012 – January 2013 in Danville, VA and remote
 * **Led development** of a Grails web application that displayed results from computations run on a Cray XMT2 supercomputer
 
----
 
 ## Technical Expertise  
 
 **TypeScript, Ruby on Rails, Node, React, AMQP, Kafka, Postgres, AWS, CI/CD**
 
----
 
 ## Education
 **University of Virginia**, College of Arts and Sciences, Charlottesville, VA  
