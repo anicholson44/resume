@@ -1,7 +1,5 @@
 # Andrew Nicholson
-(540) 728-0119  
-[nicholsonsoftware@gmail.com](nicholsonsoftware@gmail.com)  
-[https://github.com/anicholson44](https://github.com/anicholson44)  
+[https://linkedid.com/in/andrewnicholsonsoftware](https://www.linkedin.com/in/andrewnicholsonsoftware/) • [nicholsonsoftware@gmail.com](nicholsonsoftware@gmail.com) • [https://github.com/anicholson44](https://github.com/anicholson44)
 
 ## Personal Mission Statement
 
