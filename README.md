@@ -1,7 +1,7 @@
 # Andrew Nicholson
 [nicholsonsoftware@gmail.com](mailto:nicholsonsoftware@gmail.com) • [linkedin.com/in/andrewnicholsonsoftware](https://www.linkedin.com/in/andrewnicholsonsoftware/) • [github.com/anicholson44](https://github.com/anicholson44)
 
-I bring over 10 years of impactful experience consistently driving success on the highest priority projects, leading by example and mentorship, and continually improving myself and my teams with compounding results. My goal is to work with great engineers and leaders to create great products that make lives better.  
+I bring over 10 years of high impact experience consistently driving high priority projects to success, leading by example and mentorship, and continually improving myself and my teams with compounding results. My goal is to work with great engineers and leaders to create great products that make lives better.  
 
 
 ## Work Experience
