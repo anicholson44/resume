@@ -1,5 +1,5 @@
 # Andrew Nicholson
-[https://www.linkedin.com/in/andrewnicholsonsoftware/](https://www.linkedin.com/in/andrewnicholsonsoftware/) • [nicholsonsoftware@gmail.com](mailto:nicholsonsoftware@gmail.com) • [https://github.com/anicholson44](https://github.com/anicholson44)
+[nicholsonsoftware@gmail.com](mailto:nicholsonsoftware@gmail.com) • [https://www.linkedin.com/in/andrewnicholsonsoftware/](https://www.linkedin.com/in/andrewnicholsonsoftware/) • [https://github.com/anicholson44](https://github.com/anicholson44)
 
 ## Personal Mission Statement
 
