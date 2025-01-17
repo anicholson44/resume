@@ -1,5 +1,5 @@
 # Andrew Nicholson
-[nicholsonsoftware@gmail.com](mailto:nicholsonsoftware@gmail.com) • [https://www.linkedin.com/in/andrewnicholsonsoftware/](https://www.linkedin.com/in/andrewnicholsonsoftware/) • [https://github.com/anicholson44](https://github.com/anicholson44)
+[nicholsonsoftware@gmail.com](mailto:nicholsonsoftware@gmail.com) • [linkedin.com/in/andrewnicholsonsoftware/](https://www.linkedin.com/in/andrewnicholsonsoftware/) • [github.com/anicholson44](https://github.com/anicholson44)
 
 ## Personal Mission Statement
 
@@ -53,11 +53,11 @@ To advocate for best practices that serve the customer, to use my expertise to s
 
 ## Personal Projects  
 
-**[Systemicity Blog](https://systemicity.blog)** • *06/2024 - present*
+**[systemicity.blog](https://systemicity.blog)** • *06/2024 - present*
 * Technical blog that aims to simplify complex topics in distributed systems and software organizations
 
 
-**[Camsizes.com](https://camsizes.com)** • *01/2020 - present*
+**[camsizes.com](https://camsizes.com)** • *01/2020 - present*
 * Rock climbing gear comparison tool, used by many climbers to compare climbing cams made by different manufacturers
 
 ## Education  
