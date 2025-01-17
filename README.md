@@ -47,8 +47,11 @@ I bring over 10 years of impactful experience consistently driving success on th
 
 ## Technical Expertise  
 
-**TypeScript • Ruby on Rails • Postgres • Node • React • AMQP • Kafka • AWS**  
-
+8+ years - Ruby on Rails • Postgres • React • AWS • JavaScript  
+5+ years - TypeScript  
+3+ years - NodeJS • AMQP  
+2+ years - Java  
+1+ years - Kafka  
 
 ## Personal Projects  
 
