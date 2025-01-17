@@ -1,12 +1,10 @@
 # Andrew Nicholson
 [nicholsonsoftware@gmail.com](mailto:nicholsonsoftware@gmail.com) • [linkedin.com/in/andrewnicholsonsoftware](https://www.linkedin.com/in/andrewnicholsonsoftware/) • [github.com/anicholson44](https://github.com/anicholson44)
 
-## Personal Mission Statement
-
-To advocate for best practices that serve the customer, to use my expertise to solve complex and strategic problems, to own and drive product success, to mentor and help others achieve their goals, and ultimately to make lives better with the products my team creates.
+Andrew brings over 10 years of impactful experience consistently driving success on the highest priority projects, leading by example and mentorship, and continually improving himself and his teams with compounding results. Andrew's goal is to work with great engineers and leaders to create great products that make lives better.  
 
 
-## Work Experience  
+## Work Experience
 
 **Founding Engineer / Staff Software Engineer at Rula Mental Health** • *12/2021 - 03/2024, remote*
 * Joined as engineer #3
