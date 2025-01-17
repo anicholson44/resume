@@ -49,7 +49,15 @@ To advocate for best practices that serve the customer, to use my expertise to s
 
 ## Technical Expertise  
 
-**TypeScript, Ruby on Rails, Node, React, AMQP, Kafka, Postgres, AWS, CI/CD**
+★★★★☆ TypeScript  
+★★★★☆ Ruby on Rails  
+★★★☆☆ Node  
+★★★★☆ Postgres  
+★★★★☆ React  
+★★★☆☆ AMQP  
+★★★☆☆ Kafka  
+★★★☆☆ AWS  
+
 
 ## Personal Projects  
 
