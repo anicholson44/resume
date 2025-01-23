@@ -47,7 +47,7 @@ I bring over 10 years of high impact experience consistently driving high priori
 
 ## Technical Expertise  
 
-8+ years - Ruby on Rails • Postgres • React • AWS • JavaScript  
+8+ years - Distributed Systems • Ruby on Rails • Postgres • React • AWS • JavaScript  
 5+ years - TypeScript  
 3+ years - NodeJS • AMQP  
 2+ years - Java  
@@ -55,14 +55,27 @@ I bring over 10 years of high impact experience consistently driving high priori
 
 ## Personal Projects  
 
-**[systemicity.blog](https://systemicity.blog)** • *06/2024 - present*
-* Technical blog that aims to simplify complex topics in distributed systems and software organizations
+**[systemicity.blog](https://systemicity.blog)** • *06/2024 - present*  
+Technical blog that aims to simplify complex topics in distributed systems and software organizations.  
 
 
-**[camsizes.com](https://camsizes.com)** • *01/2020 - present*
-* Rock climbing gear comparison tool, used by many climbers to compare climbing cams made by different manufacturers
+**[camsizes.com](https://camsizes.com)** • *01/2020 - present*  
+Rock climbing gear comparison tool, used by many climbers to compare climbing cams made by different manufacturers.  
+
+
+**[use-observable-reducer](https://github.com/anicholson44/use-observable-reducer)** • *02/2021 - 03/2021*  
+React hook that creates an RXJS subject around a React reducer function, like redux-observable but for modern React using hooks instead of Redux.  
+
+
+**[MatchDay](https://github.com/anicholson44/match_day)** • *08/2018 - 09/2018*  
+Meteor web application that displays soccer matches for a given day, without revealing scores. I built this so I could browse which matches were on and watch them from the beginning without spoiling the result.  
+
+
+**[raspi-temperature-server](https://github.com/anicholson44/raspi-temperature-server)** • *11/2017 - 12/2017*  
+Server and web application for monitoring a Raspberry Pi temperature sensor. Used for tracking the temperature of a fermentation closet.  
+
 
 ## Education  
 
-**University of Virginia, College of Arts and Sciences** • *08/2009 – 05/2013, Charlottesville, VA*  
-BA in Computer Science and Philosophy
+**University of Virginia, College of Arts and Sciences** • *08/2009 - 05/2013, Charlottesville, VA*  
+Bachelor of Arts, Double Major in Computer Science and Philosophy  
