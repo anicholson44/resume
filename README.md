@@ -64,7 +64,7 @@ Rock climbing gear comparison tool, used by many climbers to compare climbing ca
 
 
 **[use-observable-reducer](https://github.com/anicholson44/use-observable-reducer)** • *02/2021 - 03/2021*  
-React hook that creates an RXJS subject around a React reducer function, like redux-observable but for modern React using hooks instead of Redux.  
+React hook that creates an RxJS subject around a React reducer function, like redux-observable but for modern React using hooks instead of Redux. I built this because there was not a tool to support using RxJS with the use-reducer hook at the time.  
 
 
 **[MatchDay](https://github.com/anicholson44/match_day)** • *08/2018 - 09/2018*  
@@ -72,7 +72,7 @@ Meteor web application that displays soccer matches for a given day, without rev
 
 
 **[raspi-temperature-server](https://github.com/anicholson44/raspi-temperature-server)** • *11/2017 - 12/2017*  
-Server and web application for monitoring a Raspberry Pi temperature sensor. Used for tracking the temperature of a fermentation closet.  
+Server and web application for monitoring a Raspberry Pi temperature sensor. I built this to track the temperature of a fermentation closet, so I wouldn't ruin my sauerkraut.  
 
 
 ## Education  
