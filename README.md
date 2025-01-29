@@ -1,7 +1,7 @@
 # Andrew Nicholson
 [linkedin.com/in/andrewnicholsonsoftware](https://www.linkedin.com/in/andrewnicholsonsoftware/) • [github.com/anicholson44](https://github.com/anicholson44) • [nicholsonsoftware@gmail.com](mailto:nicholsonsoftware@gmail.com)  
 
-I’m an engineering leader with 10+ years of experience building reliable and scalable distributed systems, frontend-to-backend. Throughout my career, I’ve consistently driven high-impact initiatives, leveled up my teams through mentorship and continuous improvement, and built systems that deliver value without compromising technical quality. I thrive on collaborating with great engineers and great leaders to create great products.  
+I’m an engineering leader with 10+ years of experience building reliable and scalable distributed systems, frontend-to-backend. Throughout my career, I’ve consistently driven high-impact initiatives, leveled up my teams through mentorship and continuous improvement, and built systems that meet the needs of the business without compromising technical quality. I thrive on collaborating with great engineers and great leaders to create great products.  
 
 
 ## Skills
@@ -21,12 +21,12 @@ Distributed Systems • Organizational Leadership • Technical Mentorship • S
 * Joined as engineer #3
 * Built **foundational services and products**, including a resilient email system, partnership integrations, and web portal products for both patients and therapists
 * Drove **cross-functional initiatives**, including a process to develop an **SDLC** and an **org-wide reference architecture** based on Domain-Driven Design, Event-Driven Architecture, and Command/Query Responsibility Segregation
-* Implemented a Transactional Outbox and Durable Workflow Execution Environment to provide the team with **solutions to widespread distributed systems problems**
+* Implemented a Transactional Outbox and Durable Workflow Execution Environment to provide the organization with **solutions to widespread distributed systems problems**
 
 **Staff Software Engineer at Sift** • *01/2021 - 12/2021, remote*
 * Joined through the **2021 acquisition of ChargeBack**
-* Designed and **led development of a new data architecture** to enable flexible product support for customers, **unblocking business scalability**
-* **Worked closely with product managers** to shape our low-code business rules platform
+* Designed and **led development of a new data architecture** to enable flexible product support for customers, **unlocking a scalable business strategy**
+* **Led product engineering** of a low-code business rules platform
 
 **Senior Full-Stack React/Ruby on Rails Engineer and Team Lead at Spatial Networks** • *03/2020 - 12/2020, remote*
 * **Led development** and **took ownership over project success** for a **strategic low-code platform** feature using **Ruby on Rails, React, and PostgreSQL**
