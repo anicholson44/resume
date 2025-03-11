@@ -1,7 +1,7 @@
 # Andrew Nicholson
 [linkedin.com/in/andrewnicholsonsoftware](https://www.linkedin.com/in/andrewnicholsonsoftware/) • [github.com/anicholson44](https://github.com/anicholson44) • [nicholsonsoftware@gmail.com](mailto:nicholsonsoftware@gmail.com)  
 
-I’m an engineering leader with 10+ years of experience building reliable and scalable distributed systems, frontend-to-backend. Throughout my career, I’ve consistently driven high-impact initiatives, leveled up my teams through mentorship and continuous improvement, and built systems that meet the needs of the business without compromising technical quality. I thrive on collaborating with great engineers and great leaders to create great products.  
+I’m an engineering leader with 10+ years of experience building reliable and scalable distributed systems, frontend-to-backend. Throughout my career, I’ve consistently driven high-impact initiatives, leveled up my teams through mentorship and continuous improvement, and crafted systems that meet the needs of the business without compromising technical quality. I thrive on collaborating with great engineers and great leaders to create great products.  
 
 
 ## Skills
