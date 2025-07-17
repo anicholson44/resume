@@ -1,7 +1,7 @@
 # Andrew Nicholson
 [linkedin.com/in/andrewnicholsonsoftware](https://www.linkedin.com/in/andrewnicholsonsoftware/) • [github.com/anicholson44](https://github.com/anicholson44) • [nicholsonsoftware@gmail.com](mailto:nicholsonsoftware@gmail.com)  
 
-I’m an engineering leader with 10+ years of experience building reliable and scalable distributed systems, frontend-to-backend. Throughout my career, I’ve consistently driven high-impact initiatives, leveled up my teams through mentorship and continuous improvement, and crafted systems that meet the needs of the business without compromising technical quality. I thrive on collaborating with great engineers and great leaders to create great products.  
+Engineering leader with 12+ years of experience building reliable and scalable distributed systems, frontend-to-backend. Throughout my career, I’ve consistently driven high-impact initiatives, leveled up my teams through mentorship and continuous improvement, and crafted systems that meet the needs of the business without compromising technical quality. I thrive on collaborating with great engineers and great leaders to create great products.  
 
 
 ## Skills
@@ -17,6 +17,12 @@ Distributed Systems • Organizational Leadership • Technical Mentorship • S
 
 
 ## Work Experience
+**Founding Staff Software Engineer at Endless Commerce** • *5/2025 - present, remote*
+* Joined as engineer #4
+* Improved reliability of the core distributed system with engineering best practices
+* Implemented high-impact integrations product with a scalable customer growth design
+* Drove CI/CD pipeline and process improvements to reduce time to deployment
+
 **Founding Engineer / Staff Software Engineer at Rula Mental Health** • *12/2021 - 03/2024, remote*
 * Joined as engineer #3
 * Built **foundational services and products**, including a resilient email system, partnership integrations, and web portal products for both patients and therapists
