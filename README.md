@@ -21,7 +21,8 @@ Distributed Systems • Organizational Leadership • Technical Mentorship • S
 * Joined as engineer #4
 * Improved reliability of the core distributed system with engineering best practices
 * Implemented high-impact integrations product with a scalable customer growth design
-* Drove CI/CD pipeline and process improvements to reduce time to deployment
+* Drove CI/CD pipeline and process improvements to reduce deployment time and mitigate risks
+* Built a flexible multi-tenant business process automation system with a templating library and state machine framework
 
 **Founding Engineer / Staff Software Engineer at Rula Mental Health** • *12/2021 - 03/2024, remote*
 * Joined as engineer #3
